@@ -35,8 +35,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/561ea191ea9e4c9abc19385e84ff04e9-with-play.gif)](https://www.loom.com/share/561ea191ea9e4c9abc19385e84ff04e9)
-
+<div>
+    <a href="https://www.loom.com/share/561ea191ea9e4c9abc19385e84ff04e9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/561ea191ea9e4c9abc19385e84ff04e9-1e2a3a41670117a3-full-play.gif#t=0.1">
+    </a>
+  </div>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 Loom
 <!-- Recommended tools:
