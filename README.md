@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<iframe width="640" height="360" src="https://www.loom.com/embed/561ea191ea9e4c9abc19385e84ff04e9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/561ea191ea9e4c9abc19385e84ff04e9-with-play.gif)](https://www.loom.com/share/561ea191ea9e4c9abc19385e84ff04e9)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 Loom
