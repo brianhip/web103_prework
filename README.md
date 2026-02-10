@@ -39,6 +39,15 @@ Here's a walkthrough of implemented required features:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ea74a493b7764062a19c200dcd7f1dbf-75cf28ff8416885f-full-play.gif#t=0.1">
     </a>
   </div>
+
+  <div>
+    <a href="https://www.loom.com/share/5d53defeb77a447abf232c1cb96d1800">
+      <p>UPDATE: Video displays adding a creator which the above video was missing</p>
+    </a>
+    <a href="https://www.loom.com/share/5d53defeb77a447abf232c1cb96d1800">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5d53defeb77a447abf232c1cb96d1800-a5eae44cf6f9fa11-full-play.gif#t=0.1">
+    </a>
+  </div>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 Loom
 <!-- Recommended tools:
